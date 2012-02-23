@@ -1,0 +1,636 @@
+Ttouchzipkit
+v7
+r0
+t312828192.529726
+cCheck dependencies
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDefs.o /Users/trollololo/Documents/git/zipkit/ZKDefs.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKArchive.o /Users/trollololo/Documents/git/zipkit/ZKArchive.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDataArchive.o /Users/trollololo/Documents/git/zipkit/ZKDataArchive.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKFileArchive.o /Users/trollololo/Documents/git/zipkit/ZKFileArchive.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDHeader.o /Users/trollololo/Documents/git/zipkit/ZKCDHeader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer.o /Users/trollololo/Documents/git/zipkit/ZKCDTrailer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64.o /Users/trollololo/Documents/git/zipkit/ZKCDTrailer64.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64Locator.o /Users/trollololo/Documents/git/zipkit/ZKCDTrailer64Locator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLFHeader.o /Users/trollololo/Documents/git/zipkit/ZKLFHeader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLog.o /Users/trollololo/Documents/git/zipkit/ZKLog.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSData+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSData+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDate+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSDate+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDictionary+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSDictionary+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileHandle+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSFileHandle+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileManager+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSFileManager+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSString+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSString+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/libtouchzipkit.a normal armv6
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/zlib.h
+c000000004C5A423C00000000000102A5
+t1280983612
+s66213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/libz.dylib
+c000000004C5A423D0000000000020FF0
+t1280983613
+s135152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/zlib.h
+c000000004CC1053F00000000000102A5
+t1287718207
+s66213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/trollololo/Documents/git/zipkit/GMAppleDouble+ZKAdditions.h
+c000000004CDA8B1F0000000000000138
+t1289390879
+s312
+i"GMAppleDouble.h"
+
+N/Users/trollololo/Documents/git/zipkit/MacFUSE/GMAppleDouble.h
+c000000004CDA8B1F0000000000001637
+t1289390879
+s5687
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/NSData+ZKAdditions.h
+c000000004CDA8B1F0000000000000408
+t1289390879
+s1032
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/NSData+ZKAdditions.m
+c000000004CDA8B1F0000000000001356
+t1289390879
+s4950
+i"NSData+ZKAdditions.h"
+i"NSFileManager+ZKAdditions.h"
+i"ZKCDHeader.h"
+i"ZKCDTrailer.h"
+i"ZKLFHeader.h"
+i"zlib.h"
+
+N/Users/trollololo/Documents/git/zipkit/NSDate+ZKAdditions.h
+c000000004CDA8B1F00000000000000F4
+t1289390879
+s244
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/NSDate+ZKAdditions.m
+c000000004CDA8B1F0000000000000417
+t1289390879
+s1047
+i"NSDate+ZKAdditions.h"
+
+N/Users/trollololo/Documents/git/zipkit/NSDictionary+ZKAdditions.h
+c000000004CDA8B1F0000000000000179
+t1289390879
+s377
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/NSDictionary+ZKAdditions.m
+c000000004CDA8B1F000000000000032E
+t1289390879
+s814
+i"NSDictionary+ZKAdditions.h"
+
+N/Users/trollololo/Documents/git/zipkit/NSFileHandle+ZKAdditions.h
+c000000004CDA8B1F00000000000000F4
+t1289390879
+s244
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/NSFileHandle+ZKAdditions.m
+c000000004CDA8B1F0000000000000250
+t1289390879
+s592
+i"NSFileHandle+ZKAdditions.h"
+
+N/Users/trollololo/Documents/git/zipkit/NSFileManager+ZKAdditions.h
+c000000004CDA8B1F0000000000000460
+t1289390879
+s1120
+i<Foundation/Foundation.h>
+i"ZKDefs.h"
+
+N/Users/trollololo/Documents/git/zipkit/NSFileManager+ZKAdditions.m
+c000000004CDA8B1F00000000000019DB
+t1289390879
+s6619
+i"NSFileManager+ZKAdditions.h"
+i"NSData+ZKAdditions.h"
+i"NSDictionary+ZKAdditions.h"
+i"GMAppleDouble+ZKAdditions.h"
+
+N/Users/trollololo/Documents/git/zipkit/NSString+ZKAdditions.h
+c000000004CDA8B1F00000000000000EF
+t1289390879
+s239
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/NSString+ZKAdditions.m
+c000000004CDA8B1F00000000000001CB
+t1289390879
+s459
+i"NSString+ZKAdditions.h"
+i"ZKDefs.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKArchive.h
+c000000004CDA8B1F000000000000077F
+t1289390879
+s1919
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/ZKArchive.m
+c000000004CDA8B1F00000000000022A7
+t1289390879
+s8871
+i"ZKArchive.h"
+i"NSDictionary+ZKAdditions.h"
+i"NSFileManager+ZKAdditions.h"
+i"ZKCDTrailer.h"
+i"ZKDefs.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKCDHeader.h
+c000000004CDA8B1F000000000000082A
+t1289390879
+s2090
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/ZKCDHeader.m
+c000000004CDA8B1F0000000000002618
+t1289390879
+s9752
+i"ZKCDHeader.h"
+i"NSDate+ZKAdditions.h"
+i"NSData+ZKAdditions.h"
+i"NSString+ZKAdditions.h"
+i"ZKDefs.h"
+i"zlib.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKCDTrailer.h
+c000000004CDA8B1F000000000000050E
+t1289390879
+s1294
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/ZKCDTrailer.m
+c000000004CDA8B1F00000000000012BE
+t1289390879
+s4798
+i"ZKCDTrailer.h"
+i"NSData+ZKAdditions.h"
+i"NSString+ZKAdditions.h"
+i"ZKDefs.h"
+i"zlib.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKCDTrailer64.h
+c000000004CDA8B1F0000000000000585
+t1289390879
+s1413
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/ZKCDTrailer64.m
+c000000004CDA8B1F0000000000000BFB
+t1289390879
+s3067
+i"ZKCDTrailer64.h"
+i"NSData+ZKAdditions.h"
+i"ZKDefs.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKCDTrailer64Locator.h
+c000000004CDA8B1F0000000000000343
+t1289390879
+s835
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/ZKCDTrailer64Locator.m
+c000000004CDA8B1F0000000000000852
+t1289390879
+s2130
+i"ZKCDTrailer64Locator.h"
+i"NSData+ZKAdditions.h"
+i"ZKDefs.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKDataArchive.h
+c000000004CDA8B1F00000000000004BD
+t1289390879
+s1213
+i<Foundation/Foundation.h>
+i"ZKArchive.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKDataArchive.m
+c000000004CDA8B1F00000000000036D7
+t1289390879
+s14039
+i"ZKDataArchive.h"
+i"ZKCDHeader.h"
+i"ZKCDTrailer.h"
+i"ZKLFHeader.h"
+i"NSData+ZKAdditions.h"
+i"NSFileManager+ZKAdditions.h"
+i"NSString+ZKAdditions.h"
+i"ZKDefs.h"
+i"zlib.h"
+i"GMAppleDouble+ZKAdditions.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKDefs.h
+c000000004CDA8B1F0000000000000604
+t1289390879
+s1540
+
+N/Users/trollololo/Documents/git/zipkit/ZKDefs.m
+c000000004CDA8B1F0000000000000491
+t1289390879
+s1169
+i"ZKDefs.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKFileArchive.h
+c000000004CDA8B1F0000000000000432
+t1289390879
+s1074
+i<Foundation/Foundation.h>
+i"ZKArchive.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKFileArchive.m
+c000000004CDA8B1F00000000000072F7
+t1289390879
+s29431
+i"ZKFileArchive.h"
+i"ZKCDHeader.h"
+i"ZKCDTrailer.h"
+i"ZKCDTrailer64.h"
+i"ZKCDTrailer64Locator.h"
+i"ZKLFHeader.h"
+i"ZKLog.h"
+i"NSData+ZKAdditions.h"
+i"NSDictionary+ZKAdditions.h"
+i"NSFileHandle+ZKAdditions.h"
+i"NSFileManager+ZKAdditions.h"
+i"NSString+ZKAdditions.h"
+i"ZKDefs.h"
+i"zlib.h"
+i"GMAppleDouble+ZKAdditions.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKLFHeader.h
+c000000004CDA8B1F000000000000056D
+t1289390879
+s1389
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/ZKLFHeader.m
+c000000004CDA8B1F00000000000019ED
+t1289390879
+s6637
+i"ZKLFHeader.h"
+i"NSDate+ZKAdditions.h"
+i"NSData+ZKAdditions.h"
+i"NSString+ZKAdditions.h"
+i"ZKDefs.h"
+i"zlib.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZKLog.h
+c000000004CDA8B1F0000000000000648
+t1289390879
+s1608
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/ZKLog.m
+c000000004CDA8B1F0000000000000EA6
+t1289390879
+s3750
+i"ZKLog.h"
+
+N/Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch
+c000000004CDA8B1F0000000000000039
+t1289390879
+s57
+i<Foundation/Foundation.h>
+
+N/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/libtouchzipkit.a
+t1290692015
+s424464
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSData+ZKAdditions.o
+t1290692015
+s21884
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDate+ZKAdditions.o
+t1290692015
+s9068
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDictionary+ZKAdditions.o
+t1290692015
+s8880
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileHandle+ZKAdditions.o
+t1290692015
+s7540
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileManager+ZKAdditions.o
+t1290692015
+s16856
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSString+ZKAdditions.o
+t1290692015
+s8176
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKArchive.o
+t1290692013
+s38752
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDHeader.o
+t1290692014
+s51328
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer.o
+t1290692014
+s28748
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64.o
+t1290692014
+s24992
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64Locator.o
+t1290692014
+s17404
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDataArchive.o
+t1290692014
+s43112
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDefs.o
+t1290692013
+s7704
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKFileArchive.o
+t1290692014
+s67380
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLFHeader.o
+t1290692014
+s36792
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLog.o
+t1290692014
+s28416
+
+N/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/touchzipkit.LinkFileList
+c000000004CE1376D000000000000081F
+t1289828205
+s2079
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312828192#312828192#0(0"0(0#1#0"8613953472#0"0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSData+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSData+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384814.849032
+e312384815.061702
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSData+ZKAdditions.o
+x/Users/trollololo/Documents/git/zipkit/NSData+ZKAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/trollololo/Documents/git/zipkit/NSData+ZKAdditions.m312384814#312384815#0(0"0(0#0#59"/Users/trollololo/Documents/git/zipkit/NSData+ZKAdditions.m8612882528#1667"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/NSData+ZKAdditions.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSData+ZKAdditions.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDate+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSDate+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384814.969854
+e312384815.151558
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDate+ZKAdditions.o
+x/Users/trollololo/Documents/git/zipkit/NSDate+ZKAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/trollololo/Documents/git/zipkit/NSDate+ZKAdditions.m312384814#312384815#0(0"0(0#0#59"/Users/trollololo/Documents/git/zipkit/NSDate+ZKAdditions.m8610122112#1667"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/NSDate+ZKAdditions.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDate+ZKAdditions.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDictionary+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSDictionary+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384815.061822
+e312384815.238468
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDictionary+ZKAdditions.o
+x/Users/trollololo/Documents/git/zipkit/NSDictionary+ZKAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/trollololo/Documents/git/zipkit/NSDictionary+ZKAdditions.m312384815#312384815#0(0"0(0#0#65"/Users/trollololo/Documents/git/zipkit/NSDictionary+ZKAdditions.m8593075392#1679"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/NSDictionary+ZKAdditions.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSDictionary+ZKAdditions.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileHandle+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSFileHandle+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384815.151664
+e312384815.369383
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileHandle+ZKAdditions.o
+x/Users/trollololo/Documents/git/zipkit/NSFileHandle+ZKAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/trollololo/Documents/git/zipkit/NSFileHandle+ZKAdditions.m312384815#312384815#0(0"0(0#0#65"/Users/trollololo/Documents/git/zipkit/NSFileHandle+ZKAdditions.m8633713824#1679"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/NSFileHandle+ZKAdditions.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileHandle+ZKAdditions.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileManager+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSFileManager+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384815.238586
+e312384815.440701
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileManager+ZKAdditions.o
+x/Users/trollololo/Documents/git/zipkit/NSFileManager+ZKAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/trollololo/Documents/git/zipkit/NSFileManager+ZKAdditions.m312384815#312384815#0(0"0(0#0#66"/Users/trollololo/Documents/git/zipkit/NSFileManager+ZKAdditions.m8628309856#1681"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/NSFileManager+ZKAdditions.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSFileManager+ZKAdditions.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSString+ZKAdditions.o /Users/trollololo/Documents/git/zipkit/NSString+ZKAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384815.369497
+e312384815.520557
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSString+ZKAdditions.o
+x/Users/trollololo/Documents/git/zipkit/NSString+ZKAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/trollololo/Documents/git/zipkit/NSString+ZKAdditions.m312384815#312384815#0(0"0(0#0#61"/Users/trollololo/Documents/git/zipkit/NSString+ZKAdditions.m8637434656#1671"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/NSString+ZKAdditions.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/NSString+ZKAdditions.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKArchive.o /Users/trollololo/Documents/git/zipkit/ZKArchive.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384813.513312
+e312384813.912075
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKArchive.o
+x/Users/trollololo/Documents/git/zipkit/ZKArchive.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/trollololo/Documents/git/zipkit/ZKArchive.m312384813#312384813#0(0"0(0#0#50"/Users/trollololo/Documents/git/zipkit/ZKArchive.m8616516384#1649"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKArchive.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKArchive.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDHeader.o /Users/trollololo/Documents/git/zipkit/ZKCDHeader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384814.090493
+e312384814.374599
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDHeader.o
+x/Users/trollololo/Documents/git/zipkit/ZKCDHeader.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/trollololo/Documents/git/zipkit/ZKCDHeader.m312384814#312384814#0(0"0(0#0#51"/Users/trollololo/Documents/git/zipkit/ZKCDHeader.m8618500224#1651"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKCDHeader.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDHeader.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer.o /Users/trollololo/Documents/git/zipkit/ZKCDTrailer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384814.341882
+e312384814.593519
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer.o
+x/Users/trollololo/Documents/git/zipkit/ZKCDTrailer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/trollololo/Documents/git/zipkit/ZKCDTrailer.m312384814#312384814#0(0"0(0#0#52"/Users/trollololo/Documents/git/zipkit/ZKCDTrailer.m8617466464#1653"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKCDTrailer.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64.o /Users/trollololo/Documents/git/zipkit/ZKCDTrailer64.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384814.374714
+e312384814.572839
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64.o
+x/Users/trollololo/Documents/git/zipkit/ZKCDTrailer64.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/trollololo/Documents/git/zipkit/ZKCDTrailer64.m312384814#312384814#0(0"0(0#0#54"/Users/trollololo/Documents/git/zipkit/ZKCDTrailer64.m8617172800#1657"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKCDTrailer64.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64Locator.o /Users/trollololo/Documents/git/zipkit/ZKCDTrailer64Locator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384814.572948
+e312384814.759535
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64Locator.o
+x/Users/trollololo/Documents/git/zipkit/ZKCDTrailer64Locator.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/trollololo/Documents/git/zipkit/ZKCDTrailer64Locator.m312384814#312384814#0(0"0(0#0#61"/Users/trollololo/Documents/git/zipkit/ZKCDTrailer64Locator.m8616783648#1671"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKCDTrailer64Locator.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKCDTrailer64Locator.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDataArchive.o /Users/trollololo/Documents/git/zipkit/ZKDataArchive.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384813.787868
+e312384814.090391
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDataArchive.o
+x/Users/trollololo/Documents/git/zipkit/ZKDataArchive.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/trollololo/Documents/git/zipkit/ZKDataArchive.m312384813#312384814#0(0"0(0#0#54"/Users/trollololo/Documents/git/zipkit/ZKDataArchive.m8624400256#1657"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKDataArchive.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDataArchive.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDefs.o /Users/trollololo/Documents/git/zipkit/ZKDefs.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384813.512311
+e312384813.787757
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDefs.o
+x/Users/trollololo/Documents/git/zipkit/ZKDefs.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/trollololo/Documents/git/zipkit/ZKDefs.m312384813#312384813#0(0"0(0#0#47"/Users/trollololo/Documents/git/zipkit/ZKDefs.m8616991808#1643"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKDefs.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKDefs.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKFileArchive.o /Users/trollololo/Documents/git/zipkit/ZKFileArchive.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384813.912203
+e312384814.341776
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKFileArchive.o
+x/Users/trollololo/Documents/git/zipkit/ZKFileArchive.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/trollololo/Documents/git/zipkit/ZKFileArchive.m312384813#312384814#0(0"0(0#0#54"/Users/trollololo/Documents/git/zipkit/ZKFileArchive.m8619235840#1657"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKFileArchive.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKFileArchive.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLFHeader.o /Users/trollololo/Documents/git/zipkit/ZKLFHeader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384814.593617
+e312384814.848928
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLFHeader.o
+x/Users/trollololo/Documents/git/zipkit/ZKLFHeader.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/trollololo/Documents/git/zipkit/ZKLFHeader.m312384814#312384814#0(0"0(0#0#51"/Users/trollololo/Documents/git/zipkit/ZKLFHeader.m8615747616#1651"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKLFHeader.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLFHeader.o0#
+
+CCompileC build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLog.o /Users/trollololo/Documents/git/zipkit/ZKLog.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s312384814.759725
+e312384814.969716
+r1
+xCompileC
+xbuild/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLog.o
+x/Users/trollololo/Documents/git/zipkit/ZKLog.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/trollololo/Documents/git/zipkit/ZKLog.m312384814#312384814#0(0"0(0#0#46"/Users/trollololo/Documents/git/zipkit/ZKLog.m8614194272#1641"    cd /Users/trollololo/Documents/git/zipkit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-generated-files.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-own-target-headers.hmap -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-all-target-headers.hmap -iquote /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/touchzipkit-project-headers.hmap -F/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -I/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/include -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources/armv6 -I/Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/DerivedSources -include /Users/trollololo/Documents/git/zipkit/ZipKit_Prefix.pch -c /Users/trollololo/Documents/git/zipkit/ZKLog.m -o /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/ZKLog.o0#
+
+CLibtool /Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/libtouchzipkit.a normal armv6
+s312384815.520669
+e312384815.535196
+r1
+xLibtool
+x/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/libtouchzipkit.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF07#2@58"Libtool build/Debug-iphoneos/libtouchzipkit.a normal armv6312384815#312384815#0(430"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library0(0#0#0"8634234624#788"    cd /Users/trollololo/Documents/git/zipkit    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos -filelist /Users/trollololo/Documents/git/zipkit/build/ZipKit.build/Debug-iphoneos/touchzipkit.build/Objects-normal/armv6/touchzipkit.LinkFileList -framework Foundation /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib -o /Users/trollololo/Documents/git/zipkit/build/Debug-iphoneos/libtouchzipkit.a0#
+
